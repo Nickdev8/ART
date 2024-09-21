@@ -4,6 +4,24 @@ Welcome to my personal art repository! This is a curated collection of artwork t
 
 Feel free to explore and use the artwork (within the bounds of the license provided below).
 
+## 🖼️ Showcase
+
+Here are a few highlights from my collection. These represent some of my favorite pieces, ranging from pixel art characters to animated sprites.
+
+### Pixel Art Characters
+![Profile Animation](profilepic/ape500.gif)
+*Description: A ape with sunglasses*
+
+![Character](gamejams/zeusWrath/playerCharacter3.gif)
+*Description: A idle animation.*
+
+![Attack Animation](me/boyyanim500.gif.gif)
+*Description: A sword slash animation to learn how to give animations weight.*
+
+---
+
+Feel free to check out my games on [my itch page](nikkcc.itch.io) for more art and my games!
+
 ---
 
 ## 🖌️ Tools and Software
