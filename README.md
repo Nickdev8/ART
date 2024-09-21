@@ -12,6 +12,7 @@ Here are a few highlights from my collection. These represent some of my favorit
 ![Profile Animation](profilepic/ape500.gif)
 *Description: A ape with sunglasses*
 
+![Character](zeusplayeranim.gif)
 ![Character](gamejams/zeusWrath/playerCharacter3.gif)
 *Description: A idle animation.*
 
