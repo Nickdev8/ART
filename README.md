@@ -12,8 +12,8 @@ Here are a few highlights from my collection. These represent some of my favorit
 ![Profile Animation](profilepic/ape500.gif)
 *Description: A ape with sunglasses*
 
-![Character](zeusplayeranim.gif)
-![Character](gamejams/zeusWrath/playerCharacter3.gif)
+![Character1](gamejams/zeusWrath/zeusplayeranim.gif)
+![Character2](gamejams/zeusWrath/playerCharacter3.gif)
 *Description: A idle animation.*
 
 ![Attack Animation](me/boyyanim500.gif)
