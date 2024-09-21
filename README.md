@@ -106,3 +106,4 @@ Shoutout to open-source projects and pixel art tutorials that helped me along th
 ---
 
 Thank you for stopping by and exploring my art collection! 🎉
+![Character2](gamejams/zeusWrath/playerCharacter3.gif)
