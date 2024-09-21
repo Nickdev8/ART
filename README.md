@@ -15,7 +15,7 @@ Here are a few highlights from my collection. These represent some of my favorit
 ![Character](gamejams/zeusWrath/playerCharacter3.gif)
 *Description: A idle animation.*
 
-![Attack Animation](me/boyyanim500.gif.gif)
+![Attack Animation](me/boyyanim500.gif)
 *Description: A sword slash animation to learn how to give animations weight.*
 
 ---
