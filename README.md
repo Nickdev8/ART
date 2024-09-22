@@ -18,7 +18,7 @@ Here are a few highlights from my collection. These represent some of my favorit
 
 *Description: A idle animation.*
 
-![Attack Animation](me/boyyanimexport2.gif)
+![Attack Animation](me/boyyanim500.gif)
 
 *Description: A sword slash animation to learn how to give animations weight.*
 
