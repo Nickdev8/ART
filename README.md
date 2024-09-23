@@ -83,17 +83,9 @@ Optional: Image viewer for .png previews
 ---
 
 # 📜 License
-All artwork in this repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
+All artwork in this repository is licensed under the Creative Commons Zero v1.0 Universal
 
-You are free to:
-
-Share, copy, and redistribute the material.
-Adapt, remix, and transform the artwork.
-Under the following terms:
-
-Attribution: You must give appropriate credit.
-NonCommercial: You may not use the artwork for commercial purposes.
-Read more about the license here.
+Read more about the license in LICENCE.
 
 ---
 
