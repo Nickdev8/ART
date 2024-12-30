@@ -19,6 +19,10 @@ Here are a few highlights from my collection. These represent some of my favorit
 ![Attack Animation](me/boyyanim500.gif)
 *Description: A sword slash animation*
 
+![WoodenCharacter](me/woodguy250.png)
+*Description: A Wooden Character made for fun*
+
+
 ---
 
 Feel free to check out my games on [my itch page](nikkcc.itch.io) for more art and my games!
