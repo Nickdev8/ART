@@ -10,17 +10,14 @@ Here are a few highlights from my collection. These represent some of my favorit
 
 ### Pixel Art Characters
 ![Profile Animation](profilepic/ape500.gif)
-
-*Description: A ape with sunglasses*
+*Description: A ape with sunglasses for my profile pic*
 
 ![Character1](gamejams/zeusWrath/zeusplayeranim.gif)
 ![Character2](gamejams/zeusWrath/playerCharacter3.gif)
-
-*Description: A idle animation.*
+*Description: A idle animation. For a game jam*
 
 ![Attack Animation](me/boyyanim500.gif)
-
-*Description: A sword slash animation to learn how to give animations weight.*
+*Description: A sword slash animation*
 
 ---
 
